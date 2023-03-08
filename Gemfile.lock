@@ -89,7 +89,7 @@ GEM
     multipart-post (2.1.1)
     nio4r (2.5.8)
     public_suffix (4.0.6)
-    puma (5.6.2)
+    puma (5.6.4)
       nio4r (~> 2.0)
     rack (3.0.4.2)
     rack-indifferent (1.2.0)
@@ -123,7 +123,7 @@ PLATFORMS
 
 DEPENDENCIES
   bridgetown (~> 1.0.0.beta3)
-  puma (~> 5.5)
+  puma (~> 5.6)
 
 BUNDLED WITH
    2.3.7
